@@ -1,2 +1,1 @@
-# FSD-Project
-Restaurant Reservation System
+FSD-Restaurant Reservation System
